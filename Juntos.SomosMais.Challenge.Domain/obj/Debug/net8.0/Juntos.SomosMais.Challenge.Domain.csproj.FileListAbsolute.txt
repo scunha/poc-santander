@@ -1,0 +1,49 @@
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.deps.json
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.csproj.AssemblyReference.cache
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.AssemblyInfoInputs.cache
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.AssemblyInfo.cs
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\refint\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\ref\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.deps.json
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.csproj.AssemblyReference.cache
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.AssemblyInfoInputs.cache
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.AssemblyInfo.cs
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\refint\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\ref\Juntos.SomosMais.Challenge.Domain.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.deps.json
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.csproj.AssemblyReference.cache
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.AssemblyInfoInputs.cache
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.AssemblyInfo.cs
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.csproj.CoreCompileInputs.cache
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\refint\Juntos.SomosMais.Challenge.Domain.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\ref\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.deps.json
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.csproj.AssemblyReference.cache
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.AssemblyInfoInputs.cache
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.AssemblyInfo.cs
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\refint\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\ref\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.Domain\obj\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.sourcelink.json

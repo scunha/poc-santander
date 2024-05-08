@@ -1,0 +1,14 @@
+version: '1.0'
+
+services:
+  Genial.Inovacao.CreditIntegration:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Desenvolvimento
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ASPNETCORE_HTTPS_PORT=44384
+    ports:
+      - "50939:80"
+      - "44384:443"
+    volumes:
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro

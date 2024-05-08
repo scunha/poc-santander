@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Juntos.SomosMais.Challenge.Domain\Juntos.SomosMais.Challenge.Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="CsvHelper" Version="31.0.3" />
+	  <PackageReference Include="Pandas.NET" Version="0.6.0" />
+	  <PackageReference Include="Storage.NetCore.Gcp.CloudStorage" Version="1.0.1" />
+	</ItemGroup>
+
+</Project>

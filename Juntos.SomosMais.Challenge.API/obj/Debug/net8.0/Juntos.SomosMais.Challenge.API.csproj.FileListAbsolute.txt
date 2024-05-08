@@ -1,0 +1,368 @@
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\appsettings.json
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.exe
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.deps.json
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.runtimeconfig.json
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.pdb
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.xml
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.MongoDb.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\CsvHelper.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\DnsClient.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Snappier.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Infra.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Service.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Service.pdb
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Infra.pdb
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.AssemblyReference.cache
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.AssemblyInfoInputs.cache
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.AssemblyInfo.cs
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.CoreCompileInputs.cache
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.Juntos.SomosMais.Challenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\scopedcss\bundle\Juntos.SomosMais.Challenge.API.styles.css
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.S.8F3A321B.Up2Date
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\refint\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.xml
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.pdb
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.genruntimeconfig.cache
+C:\Thiago\JuntosSomosMais\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\ref\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\appsettings.json
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.exe
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.deps.json
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.runtimeconfig.json
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.pdb
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.xml
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.MongoDb.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\CsvHelper.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\DnsClient.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Snappier.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Infra.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Service.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Service.pdb
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Infra.pdb
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.AssemblyReference.cache
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.AssemblyInfoInputs.cache
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.AssemblyInfo.cs
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.CoreCompileInputs.cache
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.Juntos.SomosMais.Challenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\scopedcss\bundle\Juntos.SomosMais.Challenge.API.styles.css
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.CopyComplete
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\refint\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.xml
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.pdb
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.genruntimeconfig.cache
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\ref\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Storage.v1.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Cloud.Storage.V1.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MethodBoundaryAspect.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\OneOf.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Pandas.NET.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Protobuf.Text.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Razorvine.Pickle.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Serilog.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\System.Management.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Tensorflow.Binding.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\NetBox.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Storage.NetCore.dll
+C:\Thiago\Pessoal\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Storage.NetCore.Gcp.CloudStorage.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\appsettings.json
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.exe
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.deps.json
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.runtimeconfig.json
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.pdb
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.xml
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.MongoDb.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\CsvHelper.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\DnsClient.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Api.Gax.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Storage.v1.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Cloud.Storage.V1.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MethodBoundaryAspect.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\NetBox.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\OneOf.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Pandas.NET.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Protobuf.Text.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Razorvine.Pickle.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Serilog.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\SharpCompress.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Snappier.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Storage.NetCore.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Storage.NetCore.Gcp.CloudStorage.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Tensorflow.Binding.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\ZstdSharp.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Infra.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Service.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Service.pdb
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Infra.pdb
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.AssemblyReference.cache
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.AssemblyInfoInputs.cache
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.AssemblyInfo.cs
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.CoreCompileInputs.cache
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.Juntos.SomosMais.Challenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Juntos.SomosMais.Challenge.API.props
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Juntos.SomosMais.Challenge.API.props
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Juntos.SomosMais.Challenge.API.props
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\scopedcss\bundle\Juntos.SomosMais.Challenge.API.styles.css
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.S.8F3A321B.Up2Date
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\refint\Juntos.SomosMais.Challenge.API.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.xml
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.pdb
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.genruntimeconfig.cache
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\ref\Juntos.SomosMais.Challenge.API.dll
+D:\Juntos.SomosMais.Challenge\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Auth.PlatformServices.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\appsettings.json
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.exe
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.deps.json
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.runtimeconfig.json
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.pdb
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.API.xml
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.MongoDb.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\CsvHelper.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\DnsClient.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Auth.PlatformServices.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Apis.Storage.v1.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Cloud.Storage.V1.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MethodBoundaryAspect.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\NetBox.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\OneOf.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Pandas.NET.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Protobuf.Text.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Razorvine.Pickle.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Serilog.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Snappier.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Storage.NetCore.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Storage.NetCore.Gcp.CloudStorage.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Tensorflow.Binding.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Infra.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Service.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Domain.pdb
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Service.pdb
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\bin\Debug\net8.0\Juntos.SomosMais.Challenge.Infra.pdb
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.AssemblyReference.cache
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.AssemblyInfoInputs.cache
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.AssemblyInfo.cs
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.csproj.CoreCompileInputs.cache
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.Juntos.SomosMais.Challenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Juntos.SomosMais.Challenge.API.props
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\scopedcss\bundle\Juntos.SomosMais.Challenge.API.styles.css
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.S.8F3A321B.Up2Date
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\refint\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.xml
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.pdb
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.genruntimeconfig.cache
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\ref\Juntos.SomosMais.Challenge.API.dll
+C:\Thiago\Quente para subir\Juntos.SomosMais.Challenge.API\obj\Debug\net8.0\Juntos.SomosMais.Challenge.API.sourcelink.json

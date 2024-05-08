@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Juntos.SomosMais.Challenge.API</name>
+    </assembly>
+    <members>
+        <member name="M:Juntos.SomosMais.Challenge.API.Controllers.v1.ChallengeController.GetUsers(System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            Realiza o insert e tratamento de dados através de um arquivo CSV de entrada
+            </summary>
+            <param name="region">Região do Usuário que pode ser Sul, Sudeste, Centro-Oeste, Norte e Nordeste</param>
+            <param name="type">Classificação do usuário que pode ser Especial, Normal ou Laborious</param>
+            <param name="pageNumber">Página</param>
+            <param name="pageSize">Total de registros por página</param>
+            <returns>Not Found</returns>
+        </member>
+    </members>
+</doc>

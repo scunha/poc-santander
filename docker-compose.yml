@@ -1,0 +1,8 @@
+version: '3.6'
+
+services:
+  juntossomosmaischallenge.api:
+    image: ${DOCKER_REGISTRY-}juntossomosmaischallenge
+    build:
+      context: .
+      dockerfile: Juntos.SomosMais.Challenge.API/Dockerfile
